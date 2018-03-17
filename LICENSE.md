@@ -1,1 +1,1 @@
-# Copyright (C) 2017 XC Mokee Cooperate Project
+# Copyright (C) 2018 XC Mokee Project
